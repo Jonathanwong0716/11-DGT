@@ -17,4 +17,4 @@ while guess != number:
         print("Too high, try again.")
 
 print("Congratulations! You guessed the number {number} correctly!") 
-input("game over")
+print("game over")
